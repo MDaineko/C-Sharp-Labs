@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "E:\\Учёба\\ООП\\Lab2\\Lab1\\Lab1.csproj",
+    "projectUniqueName": "E:\\Учёба\\ООП\\Lab1\\Lab1.csproj",
     "projectName": "Lab1",
-    "projectPath": "E:\\Учёба\\ООП\\Lab2\\Lab1\\Lab1.csproj",
-    "outputPath": "E:\\Учёба\\ООП\\Lab2\\Lab1\\obj\\",
+    "projectPath": "E:\\Учёба\\ООП\\Lab1\\Lab1.csproj",
+    "outputPath": "E:\\Учёба\\ООП\\Lab1\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "net40"
