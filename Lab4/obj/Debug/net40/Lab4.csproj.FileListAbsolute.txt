@@ -1,0 +1,9 @@
+E:\Учёба\ООП\Lab4\Lab4\bin\Debug\net40\Lab4.exe.config
+E:\Учёба\ООП\Lab4\Lab4\bin\Debug\net40\Lab4.exe
+E:\Учёба\ООП\Lab4\Lab4\bin\Debug\net40\Lab4.pdb
+E:\Учёба\ООП\Lab4\Lab4\obj\Debug\net40\Lab4.csprojAssemblyReference.cache
+E:\Учёба\ООП\Lab4\Lab4\obj\Debug\net40\Lab4.AssemblyInfoInputs.cache
+E:\Учёба\ООП\Lab4\Lab4\obj\Debug\net40\Lab4.AssemblyInfo.cs
+E:\Учёба\ООП\Lab4\Lab4\obj\Debug\net40\Lab4.csproj.CoreCompileInputs.cache
+E:\Учёба\ООП\Lab4\Lab4\obj\Debug\net40\Lab4.exe
+E:\Учёба\ООП\Lab4\Lab4\obj\Debug\net40\Lab4.pdb
