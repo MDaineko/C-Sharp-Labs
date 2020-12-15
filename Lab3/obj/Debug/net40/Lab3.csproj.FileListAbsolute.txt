@@ -1,0 +1,9 @@
+E:\Учёба\ООП\Lab3\bin\Debug\net40\Lab3.exe.config
+E:\Учёба\ООП\Lab3\bin\Debug\net40\Lab3.exe
+E:\Учёба\ООП\Lab3\bin\Debug\net40\Lab3.pdb
+E:\Учёба\ООП\Lab3\obj\Debug\net40\Lab3.csprojAssemblyReference.cache
+E:\Учёба\ООП\Lab3\obj\Debug\net40\Lab3.AssemblyInfoInputs.cache
+E:\Учёба\ООП\Lab3\obj\Debug\net40\Lab3.AssemblyInfo.cs
+E:\Учёба\ООП\Lab3\obj\Debug\net40\Lab3.csproj.CoreCompileInputs.cache
+E:\Учёба\ООП\Lab3\obj\Debug\net40\Lab3.exe
+E:\Учёба\ООП\Lab3\obj\Debug\net40\Lab3.pdb

@@ -1,0 +1,36 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "E:\\Учёба\\ООП\\Lab3\\Lab3.csproj",
+    "projectName": "Lab3",
+    "projectPath": "E:\\Учёба\\ООП\\Lab3\\Lab3.csproj",
+    "outputPath": "E:\\Учёба\\ООП\\Lab3\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "net40"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "net40": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "net40": {
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+    }
+  },
+  "runtimes": {
+    "win7-x86": {
+      "#import": []
+    }
+  }
+}
