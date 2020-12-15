@@ -1,0 +1,4 @@
+E:\Учёба\ООП\Lab6\obj\Debug\net40\Lab6.csprojAssemblyReference.cache
+E:\Учёба\ООП\Lab6\obj\Debug\net40\Lab6.AssemblyInfoInputs.cache
+E:\Учёба\ООП\Lab6\obj\Debug\net40\Lab6.AssemblyInfo.cs
+E:\Учёба\ООП\Lab6\obj\Debug\net40\Lab6.csproj.CoreCompileInputs.cache
