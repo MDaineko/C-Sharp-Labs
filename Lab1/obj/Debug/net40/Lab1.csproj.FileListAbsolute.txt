@@ -1,9 +1,0 @@
-E:\Учёба\ООП\Lab2\Lab1\bin\Debug\net40\Lab1.exe.config
-E:\Учёба\ООП\Lab2\Lab1\bin\Debug\net40\Lab1.exe
-E:\Учёба\ООП\Lab2\Lab1\bin\Debug\net40\Lab1.pdb
-E:\Учёба\ООП\Lab2\Lab1\obj\Debug\net40\Lab1.csprojAssemblyReference.cache
-E:\Учёба\ООП\Lab2\Lab1\obj\Debug\net40\Lab1.AssemblyInfoInputs.cache
-E:\Учёба\ООП\Lab2\Lab1\obj\Debug\net40\Lab1.AssemblyInfo.cs
-E:\Учёба\ООП\Lab2\Lab1\obj\Debug\net40\Lab1.csproj.CoreCompileInputs.cache
-E:\Учёба\ООП\Lab2\Lab1\obj\Debug\net40\Lab1.exe
-E:\Учёба\ООП\Lab2\Lab1\obj\Debug\net40\Lab1.pdb
